@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Executor.Executor">
+      <class name="com.utils.TestCase">
         <methods>
-          <include name="tc_01"/>
+          <include name="tc_02"/>
         </methods>
-      </class> <!-- com.Executor.Executor -->
+      </class> <!-- com.utils.TestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

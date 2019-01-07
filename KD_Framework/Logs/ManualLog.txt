@@ -1,0 +1,38 @@
+17:32:45,043  INFO com.keyword.Keywords<strong>{1}</strong>:84 - Chrome launched Succesfully..
+17:32:50,722  INFO com.keyword.Keywords<strong>{1}</strong>:90 - https://www.facebook.com/ entered successfully.
+17:32:51,883  INFO com.keyword.Keywords<strong>{1}</strong>:218 - Window maximized succesfully.
+17:32:52,015  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:32:52,109  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:32:53,502  INFO com.keyword.Keywords<strong>{1}</strong>:143 - clicked  succesfully.
+17:32:53,845  INFO com.keyword.Keywords<strong>{1}</strong>:412 - Screenshot taken succesfully.
+17:32:56,234  INFO com.keyword.Keywords<strong>{1}</strong>:385 - Browser closed Succesfully.
+17:35:36,424  INFO com.keyword.Keywords<strong>{1}</strong>:84 - Chrome launched Succesfully..
+17:35:41,119  INFO com.keyword.Keywords<strong>{1}</strong>:90 - https://www.facebook.com/ entered successfully.
+17:35:42,268  INFO com.keyword.Keywords<strong>{1}</strong>:218 - Window maximized succesfully.
+17:35:42,401  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:35:42,498  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:35:43,871  INFO com.keyword.Keywords<strong>{1}</strong>:143 - clicked  succesfully.
+17:35:44,156  INFO com.keyword.Keywords<strong>{1}</strong>:412 - Screenshot taken succesfully.
+17:35:46,531  INFO com.keyword.Keywords<strong>{1}</strong>:385 - Browser closed Succesfully.
+17:39:10,289  INFO com.keyword.Keywords<strong>{1}</strong>:84 - Chrome launched Succesfully..
+17:39:16,224  INFO com.keyword.Keywords<strong>{1}</strong>:90 - https://www.facebook.com/ entered successfully.
+17:39:17,383  INFO com.keyword.Keywords<strong>{1}</strong>:218 - Window maximized succesfully.
+17:39:17,605  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:39:17,699  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:39:19,534  INFO com.keyword.Keywords<strong>{1}</strong>:143 - clicked  succesfully.
+17:39:21,938  INFO com.keyword.Keywords<strong>{1}</strong>:385 - Browser closed Succesfully.
+17:39:24,567  INFO com.keyword.Keywords<strong>{1}</strong>:84 - Chrome launched Succesfully..
+17:39:29,677  INFO com.keyword.Keywords<strong>{1}</strong>:90 - https://www.facebook.com/ entered successfully.
+17:39:30,831  INFO com.keyword.Keywords<strong>{1}</strong>:218 - Window maximized succesfully.
+17:39:30,971  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:39:31,070  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:44:20,467  INFO com.keyword.Keywords<strong>{1}</strong>:84 - Chrome launched Succesfully..
+17:44:26,055  INFO com.keyword.Keywords<strong>{1}</strong>:90 - https://www.facebook.com/ entered successfully.
+17:44:27,223  INFO com.keyword.Keywords<strong>{1}</strong>:218 - Window maximized succesfully.
+17:44:27,386  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:44:27,479  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:44:30,127  INFO com.keyword.Keywords<strong>{1}</strong>:84 - Chrome launched Succesfully..
+17:44:34,637  INFO com.keyword.Keywords<strong>{1}</strong>:90 - https://www.facebook.com/ entered successfully.
+17:44:35,764  INFO com.keyword.Keywords<strong>{1}</strong>:218 - Window maximized succesfully.
+17:44:35,880  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
+17:44:35,982  INFO com.keyword.Keywords<strong>{1}</strong>:98 - Key sended succesfully.
