@@ -75,7 +75,11 @@
     <artifactId>slf4j-api</artifactId>
     <version>1.7.25</version>
 </dependency>
-
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>3.1.4</version>
+</dependency>
 
   </dependencies>
 </project>

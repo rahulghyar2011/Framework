@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -32,6 +33,7 @@ public class Constants {
 	private static Select select;
 	private static FileInputStream fis;
 	private static XSSFWorkbook wb;
+	private static XSSFSheet sheet;
 	private static Properties property;
 	private static File file;
 	public static File getFile() {
@@ -81,6 +83,12 @@ public class Constants {
 	}
 	public static void setProperty(Properties property) {
 		Constants.property = property;
+	}
+	public static XSSFSheet getSheet() {
+		return sheet;
+	}
+	public static void setSheet(XSSFSheet sheet) {
+		Constants.sheet = sheet;
 	}
 	
 	
