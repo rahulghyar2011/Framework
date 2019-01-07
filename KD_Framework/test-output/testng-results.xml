@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10122" started-at="2018-12-26T12:10:09Z" finished-at="2018-12-26T12:10:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10122" started-at="2018-12-26T12:10:09Z" finished-at="2018-12-26T12:10:19Z">
+      <class name="com.Executor.Executor">
+        <test-method status="PASS" signature="tc_03()[pri:0, instance:com.Executor.Executor@17d677df]" name="tc_03" duration-ms="10088" started-at="2018-12-26T12:10:09Z" finished-at="2018-12-26T12:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03 -->
+      </class> <!-- com.Executor.Executor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

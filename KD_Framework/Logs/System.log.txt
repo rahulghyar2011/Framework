@@ -1,0 +1,6 @@
+11:19:28,415  INFO devpinoyLogger<strong>{1}</strong>:369 - Browser is opened
+11:20:08,403  INFO devpinoyLogger<strong>{1}</strong>:369 - URL is opened
+11:20:08,529  INFO devpinoyLogger<strong>{1}</strong>:369 - Email is entered
+11:20:08,620  INFO devpinoyLogger<strong>{1}</strong>:369 - Password is entered
+11:20:17,366  INFO devpinoyLogger<strong>{1}</strong>:369 - Clicked on Login
+11:20:19,681  INFO devpinoyLogger<strong>{1}</strong>:369 - Browser is closed
